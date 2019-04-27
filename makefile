@@ -1,2 +1,2 @@
 all:
-	gcc -o project3 project3.c -lpthread
+	gcc exercise7_17.c -o exercise7_17 -lpthread

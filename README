@@ -1,5 +1,0 @@
-測試步驟
-1.cd到資料夾位址下make指令
-2.執行project3並依序輸入3個參數 1.執行時間(秒) 2.Producers數量 3.Consumers數量
-
-可參考example.png
