@@ -1,5 +1,5 @@
-# Operating_System_HW
-Write a program that implements the following disk-scheduling algorithms:
+Write a program that implements the following disk-scheduling algorithms:  
+
 a. FCFS
 b. SSTF
 c. SCAN
